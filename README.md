@@ -1,16 +1,13 @@
-## Hi there 👋
+<img src="https://i.imgur.com/AArN2aH.png" width="200px" align="right" alt="Cog Mechanicum">
 
-<!--
-**lin-kek/lin-kek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+Hi, my name is Gustavo.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+I enjoy building things with React, Node, TypeScript, and Python for now.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+Cult Mechanicus enthusiast.
+</p>
