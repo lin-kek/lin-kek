@@ -5,7 +5,7 @@ Hi, my name is Gustavo.
 </p>
 
 <p align="left">
-I enjoy building things with React, Node, TypeScript, and Python for now.
+I enjoy building things with React, Express, TypeScript, and Python for now.
 </p>
 
 <p align="left">
